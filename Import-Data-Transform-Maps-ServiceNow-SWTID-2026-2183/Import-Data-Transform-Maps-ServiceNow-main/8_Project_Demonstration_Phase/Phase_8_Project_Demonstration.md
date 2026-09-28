@@ -8,5 +8,5 @@
 ## Project Demonstration
 * **Project Name:** Import Data Using Transform Maps (Spreadsheet)
 * **Purpose of the Project:** To automate the import of spreadsheet data into ServiceNow using Import Sets and Transform Maps, with coalescing enabled to prevent duplicate records, and to present the imported data through reports and dashboards.
-* **Demonstration Video Link:** _Add your demo video link here_
-* **GitHub Repository Link:** _Add your GitHub repository link here_
+* **Demonstration Video Link:** https://drive.google.com/file/d/1jxbT0hNIywzW6NdwXBb7vPyW0q9d66Zm/view?usp=drive_link
+
